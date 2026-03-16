@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Assignment Management System
 
@@ -21,3 +22,6 @@ npm install
 npm run dev
 
 Then open http://localhost:5173
+
+# assignment-management-system
+>>>>>>> e4e846e92d31192a33391ef124af95a5b81a12df

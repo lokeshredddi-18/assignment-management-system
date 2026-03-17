@@ -21,7 +21,7 @@ This is a simple web application created as a student project.
 npm install
 npm run dev
 
-Then open http://localhost:5173
+https://assignment-management-system-1-qjx6.onrender.com
 
 # assignment-management-system
 >>>>>>> e4e846e92d31192a33391ef124af95a5b81a12df
